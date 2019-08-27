@@ -8,6 +8,10 @@
 
 
 ## Geospatial
+
+#### Hydro
+* [National Hydro Network](https://open.canada.ca/data/en/dataset/a4b190fe-e090-4e6d-881e-b87956c07977)
+
 #### DEM
 * [ArcticDEM](https://www.pgc.umn.edu/data/arcticdem/) - *Use the ArcticDEM Mosaic, see below for tiles relevant to Rankin Inlet.*
 
