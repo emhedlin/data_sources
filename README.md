@@ -28,5 +28,5 @@
 * [Github for the UseR](https://happygitwithr.com/)
 
 ## Miscellaneous
-* [Dark mode for GitHub](https://github.com/nuwcru/GitHub-Dark) - *Provides the instructions for changing GitHub into Dark Mode*
+* [Dark mode for GitHub](https://github.com/nuwcru/GitHub-Dark) - *Instructions for implementing Dark Mode in GitHub*
 
