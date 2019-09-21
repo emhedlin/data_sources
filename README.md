@@ -4,6 +4,7 @@
 [Geospatial](#geospatial) |
 [Tutorials](#tutorials) |
 [R](#r) |
+[Misc](*miscellaneous)
 
 
 
@@ -25,4 +26,7 @@
 * [R for Data Science](https://r4ds.had.co.nz/) - *Hadley Wickham's r4ds*
 * [Advanced Spatial Modeling with Stochastic Partial Differential Equations Using R and INLA](https://becarioprecario.bitbucket.io/spde-gitbook/index.html)
 * [Github for the UseR](https://happygitwithr.com/)
+
+## Miscellaneous
+* [Dark mode for GitHub](https://github.com/nuwcru/GitHub-Dark) - *Provides the instructions for changing GitHub into Dark Mode*
 
