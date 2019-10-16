@@ -26,6 +26,7 @@
 * [R for Data Science](https://r4ds.had.co.nz/) - *Hadley Wickham's r4ds*
 * [Advanced Spatial Modeling with Stochastic Partial Differential Equations Using R and INLA](https://becarioprecario.bitbucket.io/spde-gitbook/index.html)
 * [Github for the UseR](https://happygitwithr.com/)
+* [Bayesian Notes](https://jrnold.github.io/bayesian_notes/bayesian-computation.html)
 
 ## Miscellaneous
 * [Dark mode for GitHub](https://github.com/nuwcru/GitHub-Dark) - *Instructions for implementing Dark Mode in GitHub*
