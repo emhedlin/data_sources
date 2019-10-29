@@ -30,6 +30,7 @@
 
 ## Bayesian
 * [Bayesian Notes](https://jrnold.github.io/bayesian_notes/bayesian-computation.html)
+* [Intro to probability stats course](https://ocw.mit.edu/courses/mathematics/18-05-introduction-to-probability-and-statistics-spring-2014/readings/)
 * [Probability Theory](https://betanalpha.github.io/assets/case_studies/probability_theory.html)
 * [Conditional Probability Theory](https://betanalpha.github.io/assets/case_studies/conditional_probability_theory.html)
 * [Visualization in Bayesian Workflow](https://rss.onlinelibrary.wiley.com/doi/full/10.1111/rssa.12378)
