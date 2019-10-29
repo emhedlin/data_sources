@@ -4,6 +4,7 @@
 [Geospatial](#geospatial) |
 [Tutorials](#tutorials) |
 [R](#r) |
+[Bayesian] |
 [Misc](*miscellaneous)
 
 
@@ -26,7 +27,12 @@
 * [R for Data Science](https://r4ds.had.co.nz/) - *Hadley Wickham's r4ds*
 * [Advanced Spatial Modeling with Stochastic Partial Differential Equations Using R and INLA](https://becarioprecario.bitbucket.io/spde-gitbook/index.html)
 * [Github for the UseR](https://happygitwithr.com/)
+
+## Bayesian
 * [Bayesian Notes](https://jrnold.github.io/bayesian_notes/bayesian-computation.html)
+* [Probability Theory](https://betanalpha.github.io/assets/case_studies/probability_theory.html)
+* [Conditional Probability Theory](https://betanalpha.github.io/assets/case_studies/conditional_probability_theory.html)
+* [Visualization in Bayesian Workflow](https://rss.onlinelibrary.wiley.com/doi/full/10.1111/rssa.12378)
 
 ## Miscellaneous
 * [Dark mode for GitHub](https://github.com/nuwcru/GitHub-Dark) - *Instructions for implementing Dark Mode in GitHub*
