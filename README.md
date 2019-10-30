@@ -4,7 +4,7 @@
 [Geospatial](#geospatial) |
 [Tutorials](#tutorials) |
 [R](#r) |
-[Bayesian] |
+[Bayesian](#bayesian) |
 [Misc](*miscellaneous)
 
 
