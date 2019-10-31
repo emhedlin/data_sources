@@ -37,4 +37,4 @@
 
 ## Miscellaneous
 * [Dark mode for GitHub](https://github.com/nuwcru/GitHub-Dark) - *Instructions for implementing Dark Mode in GitHub*
-* [QUT acoustics Github](https://github.com/QutEcoacoustics/audio-analysis/tree/master/docs) *Implementing QUT acoustic index calculations
+* [QUT acoustics Github](https://github.com/QutEcoacoustics/audio-analysis/tree/master/docs) - *Implementing QUT acoustic index calculations*
