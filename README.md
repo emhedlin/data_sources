@@ -35,6 +35,7 @@
 * [Probability Theory](https://betanalpha.github.io/assets/case_studies/probability_theory.html)
 * [Conditional Probability Theory](https://betanalpha.github.io/assets/case_studies/conditional_probability_theory.html)
 * [Visualization in Bayesian Workflow](https://rss.onlinelibrary.wiley.com/doi/full/10.1111/rssa.12378)
+* [ordered categorical analysis](https://psyarxiv.com/x8swp/)
 
 ## Miscellaneous
 * [Dark mode for GitHub](https://github.com/nuwcru/GitHub-Dark) - *Instructions for implementing Dark Mode in GitHub*
