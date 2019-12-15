@@ -30,6 +30,7 @@
 
 ## Bayesian
 * [Statistical Rethinking - brms + tidyverse](https://bookdown.org/ajkurz/Statistical_Rethinking_recoded/)
+* [Bayesian Tutorials](https://github.com/stablemarkets/BayesianTutorials)
 * [Bayesian Notes](https://jrnold.github.io/bayesian_notes/bayesian-computation.html)
 * [Intro to probability stats course](https://ocw.mit.edu/courses/mathematics/18-05-introduction-to-probability-and-statistics-spring-2014/readings/)
 * [Probability Theory](https://betanalpha.github.io/assets/case_studies/probability_theory.html)
