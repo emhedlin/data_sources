@@ -28,6 +28,7 @@
 * [Advanced Spatial Modeling with Stochastic Partial Differential Equations Using R and INLA](https://becarioprecario.bitbucket.io/spde-gitbook/index.html)
 * [Github for the UseR](https://happygitwithr.com/)
 * [data.table vs dplyr](https://atrebas.github.io/post/2019-03-03-datatable-dplyr/)
+* [tidytable](https://markfairbanks.github.io/tidytable/)
 
 ## Bayesian
 * [Statistical Rethinking - brms + tidyverse](https://bookdown.org/ajkurz/Statistical_Rethinking_recoded/)
