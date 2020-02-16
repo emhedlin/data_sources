@@ -5,6 +5,7 @@
 [Tutorials](#tutorials) |
 [R](#r) |
 [Bayesian](#bayesian) |
+
 [Misc](*miscellaneous)
 
 
@@ -39,6 +40,12 @@
 * [Conditional Probability Theory](https://betanalpha.github.io/assets/case_studies/conditional_probability_theory.html)
 * [Visualization in Bayesian Workflow](https://rss.onlinelibrary.wiley.com/doi/full/10.1111/rssa.12378)
 * [ordered categorical analysis](https://psyarxiv.com/x8swp/)
+
+## Data vis and Design inspo
+* [Accurat Studios](https://www.accurat.it/)
+* [Giorgia Lupi](http://giorgialupi.com/)
+
+
 
 ## Miscellaneous
 * [Dark mode for GitHub](https://github.com/nuwcru/GitHub-Dark) - *Instructions for implementing Dark Mode in GitHub*
