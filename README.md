@@ -5,7 +5,7 @@
 [Tutorials](#tutorials) |
 [R](#r) |
 [Bayesian](#bayesian) |
-
+[Design](#design) |
 [Misc](*miscellaneous)
 
 
@@ -41,9 +41,10 @@
 * [Visualization in Bayesian Workflow](https://rss.onlinelibrary.wiley.com/doi/full/10.1111/rssa.12378)
 * [ordered categorical analysis](https://psyarxiv.com/x8swp/)
 
-## Data vis and Design inspo
+## Design
 * [Accurat Studios](https://www.accurat.it/)
 * [Giorgia Lupi](http://giorgialupi.com/)
+* [Viz Pallette](https://projects.susielu.com/viz-palette?colors=[%22#ffd700%22,%22#ffb14e%22,%22#fa8775%22,%22#ea5f94%22,%22#cd34b5%22,%22#9d02d7%22,%22#0000ff%22]&backgroundColor=%22white%22&fontColor=%22black%22&mode=%22deuteranomaly%22)
 
 
 
