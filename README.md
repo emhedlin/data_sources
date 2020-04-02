@@ -43,6 +43,7 @@
 * [Conditional Probability Theory](https://betanalpha.github.io/assets/case_studies/conditional_probability_theory.html)
 * [Visualization in Bayesian Workflow](https://rss.onlinelibrary.wiley.com/doi/full/10.1111/rssa.12378)
 * [ordered categorical analysis](https://psyarxiv.com/x8swp/)
+* [Stan Intro](https://github.com/betanalpha/stan_intro/blob/master/stan_intro.pdf)
 
 ## Design
 * [Accurat Studios](https://www.accurat.it/)
