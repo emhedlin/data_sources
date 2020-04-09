@@ -20,7 +20,7 @@
 #### DEM
 * [ArcticDEM](https://www.pgc.umn.edu/data/arcticdem/) - *Use the ArcticDEM Mosaic, see below for tiles relevant to Rankin Inlet.*
 
-![Rankin DEM](https://github.com/nuwcru/ltemp_data-sources/blob/master/landing%20page/tiles.png)
+[Rankin reference tiles](https://github.com/nuwcru/ltemp_data-sources/blob/master/landing%20page/tiles.png)
 
 
 ## Tutorials
