@@ -51,6 +51,7 @@
 * [Viz Pallette](https://projects.susielu.com/viz-palette?colors=[%22#ffd700%22,%22#ffb14e%22,%22#fa8775%22,%22#ea5f94%22,%22#cd34b5%22,%22#9d02d7%22,%22#0000ff%22]&backgroundColor=%22white%22&fontColor=%22black%22&mode=%22deuteranomaly%22)
 * [Letterform Archive](http://oa.letterformarchive.org/)
 * [James Round - infograph inspo](https://dribbble.com/jamesrounddesign)
+* [Hanna Piotrowska - datavis inspo](https://www.behance.net/hannapio)
 
 
 
