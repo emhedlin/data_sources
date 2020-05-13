@@ -53,6 +53,7 @@
 * [James Round - infograph inspo](https://dribbble.com/jamesrounddesign)
 * [Hanna Piotrowska - datavis inspo](https://www.behance.net/hannapio)
 * [trees maps and theorems](https://www.principiae.be/book/)
+* [Diverging Color Maps for Scientific Visualization - Kenneth Moreland](https://link.springer.com/chapter/10.1007%2F978-3-642-10520-3_9)
 
 
 
