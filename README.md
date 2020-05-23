@@ -62,3 +62,4 @@
 * [Dark mode for GitHub](https://github.com/nuwcru/GitHub-Dark) - *Instructions for implementing Dark Mode in GitHub*
 * [QUT acoustics Github](https://github.com/QutEcoacoustics/audio-analysis/tree/master/docs) - *Implementing QUT acoustic index calculations*
 * [Tikz Devices](https://github.com/Sharpie/RTikZDevice) - *convert R graphics into tikz for LaTeX*
+* [Image labeling resources](https://github.com/heartexlabs/awesome-data-labeling)
