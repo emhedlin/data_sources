@@ -41,7 +41,7 @@
 * [ordered categorical analysis](https://psyarxiv.com/x8swp/)
 * [Stan Intro](https://github.com/betanalpha/stan_intro/blob/master/stan_intro.pdf)
 * [INLA - smooths, temporal, spatial using GMRF](https://06373067248184934733.googlegroups.com/attach/91cfa6d7b7c2566e/group-models.pdf?part=0.1&view=1&vt=ANaJVrHkWMN9MfUF5wJ48sUGGNvCAj4jmyXdmEMyjliCGwKKGpeSDuftJgSJTWKLV3lZt1TX8_1M2oMMTtKDEfrHFosB083RNWod6vVI1C49FxoZn8ytUso)
-* [Inla - BYM/besag](http://faculty.washington.edu/jonno/SISMIDmaterial/3-spatial1.pdf)
+* [Inla - BYM/besag - area spatial process instead of point process](http://faculty.washington.edu/jonno/SISMIDmaterial/3-spatial1.pdf)
 
 ## Design
 * [Accurat Studios](https://www.accurat.it/)
