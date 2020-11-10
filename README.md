@@ -44,6 +44,8 @@
 * [Stan Intro](https://github.com/betanalpha/stan_intro/blob/master/stan_intro.pdf)
 * [INLA - smooths, temporal, spatial using GMRF](https://06373067248184934733.googlegroups.com/attach/91cfa6d7b7c2566e/group-models.pdf?part=0.1&view=1&vt=ANaJVrHkWMN9MfUF5wJ48sUGGNvCAj4jmyXdmEMyjliCGwKKGpeSDuftJgSJTWKLV3lZt1TX8_1M2oMMTtKDEfrHFosB083RNWod6vVI1C49FxoZn8ytUso)
 * [Inla - BYM/besag - area spatial process instead of point process](http://faculty.washington.edu/jonno/SISMIDmaterial/3-spatial1.pdf)
+* [Bayesian work flow from many of the stan contributors](http://www.stat.columbia.edu/~gelman/research/unpublished/Bayesian_Workflow_article.pdf)
+
 ### Rethinking translations
 * [raw stan](https://vincentarelbundock.github.io/rethinking2/)
 * [brms + tidyverse](https://bookdown.org/ajkurz/Statistical_Rethinking_recoded/)
