@@ -1,4 +1,4 @@
-# Freely available data
+# Data, tutorials, and informative ramblings
 
 #### Table of contents
 [Geospatial](#geospatial) |
