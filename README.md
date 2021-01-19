@@ -24,6 +24,7 @@
 * [Automate the boring stuff with python](https://automatetheboringstuff.com/)
 * [coursera - neural nets](https://www.coursera.org/learn/neural-networks-deep-learning)
 * [Cory Schafer - python](https://www.youtube.com/watch?v=ZDa-Z5JzLYM)
+* [Linear Algebra](https://pabloinsente.github.io/intro-linear-algebra#sets)
 
 ## R
 * [R for Data Science](https://r4ds.had.co.nz/) - *Hadley Wickham's r4ds*
