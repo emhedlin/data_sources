@@ -47,6 +47,7 @@
 * [Inla - BYM/besag - area spatial process instead of point process](http://faculty.washington.edu/jonno/SISMIDmaterial/3-spatial1.pdf)
 * [Bayesian work flow from many of the stan contributors](http://www.stat.columbia.edu/~gelman/research/unpublished/Bayesian_Workflow_article.pdf)
 * [Vehtari birthday analysis](https://avehtari.github.io/casestudies/Birthdays/birthdays.html#Model_8+t_nu:_day_of_year_effect_with_Student's_t_prior)
+* [stan code for the birthday analysis](https://github.com/avehtari/casestudies/tree/master/Birthdays)
 
 ### Bayesian reading
 * [Kevin Murphy](https://probml.github.io/pml-book/book1.html)
