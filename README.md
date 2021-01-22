@@ -46,6 +46,7 @@
 * [INLA - smooths, temporal, spatial using GMRF](https://06373067248184934733.googlegroups.com/attach/91cfa6d7b7c2566e/group-models.pdf?part=0.1&view=1&vt=ANaJVrHkWMN9MfUF5wJ48sUGGNvCAj4jmyXdmEMyjliCGwKKGpeSDuftJgSJTWKLV3lZt1TX8_1M2oMMTtKDEfrHFosB083RNWod6vVI1C49FxoZn8ytUso)
 * [Inla - BYM/besag - area spatial process instead of point process](http://faculty.washington.edu/jonno/SISMIDmaterial/3-spatial1.pdf)
 * [Bayesian work flow from many of the stan contributors](http://www.stat.columbia.edu/~gelman/research/unpublished/Bayesian_Workflow_article.pdf)
+8 [Vehtari birthday analysis](https://avehtari.github.io/casestudies/Birthdays/birthdays.html#Model_8+t_nu:_day_of_year_effect_with_Student's_t_prior)
 
 ### Bayesian reading
 * [Kevin Murphy](https://probml.github.io/pml-book/book1.html)
