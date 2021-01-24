@@ -25,7 +25,7 @@
 * [coursera - neural nets](https://www.coursera.org/learn/neural-networks-deep-learning)
 * [Cory Schafer - python](https://www.youtube.com/watch?v=ZDa-Z5JzLYM)
 * [Linear Algebra](https://pabloinsente.github.io/intro-linear-algebra#sets)
-###
+### Julia
 * [Julia with Chris Rackauckas](http://ucidatascienceinitiative.github.io/IntroToJulia/)
 
 ## R
