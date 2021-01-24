@@ -25,6 +25,8 @@
 * [coursera - neural nets](https://www.coursera.org/learn/neural-networks-deep-learning)
 * [Cory Schafer - python](https://www.youtube.com/watch?v=ZDa-Z5JzLYM)
 * [Linear Algebra](https://pabloinsente.github.io/intro-linear-algebra#sets)
+###
+* [Julia with Chris Rackauckas](http://ucidatascienceinitiative.github.io/IntroToJulia/)
 
 ## R
 * [R for Data Science](https://r4ds.had.co.nz/) - *Hadley Wickham's r4ds*
