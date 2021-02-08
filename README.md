@@ -31,7 +31,6 @@
 * [Julia with Chris Rackauckas](http://ucidatascienceinitiative.github.io/IntroToJulia/)
 
 ## R
-* [R for Data Science](https://r4ds.had.co.nz/) - *Hadley Wickham's r4ds*
 * [Advanced Spatial Modeling with Stochastic Partial Differential Equations Using R and INLA](https://becarioprecario.bitbucket.io/spde-gitbook/index.html)
 * [Github for the UseR](https://happygitwithr.com/)
 * [data.table vs dplyr](https://atrebas.github.io/post/2019-03-03-datatable-dplyr/)
@@ -63,8 +62,6 @@
 * [raw stan](https://vincentarelbundock.github.io/rethinking2/)
 * [brms + tidyverse](https://bookdown.org/ajkurz/Statistical_Rethinking_recoded/)
 * [INLA](https://akawiecki.github.io/statistical_rethinking_inla/)
-
-
 
 ## Design
 * [Accurat Studios](https://www.accurat.it/)
