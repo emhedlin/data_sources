@@ -52,6 +52,9 @@
 * [Vehtari birthday analysis](https://avehtari.github.io/casestudies/Birthdays/birthdays.html#Model_8+t_nu:_day_of_year_effect_with_Student's_t_prior)
 * [stan code for the birthday analysis](https://github.com/avehtari/casestudies/tree/master/Birthdays)
 * [Point Processes](https://benjamincretois.netlify.app/post/fitting-point-process-models-in-stan-part-2/)
+* [Spatial Integrated Model](https://github.com/valentinlauret/SpatialIntegratedModelTursiops)
+
+
 ### Bayesian reading
 * [Kevin Murphy](https://probml.github.io/pml-book/book1.html)
 * [David Mackay](http://www.inference.org.uk/mackay/itila/)
