@@ -15,6 +15,7 @@
 * [Python GEE code](https://github.com/giswqs/earthengine-py-notebooks)
 * [National Hydro Network](https://open.canada.ca/data/en/dataset/a4b190fe-e090-4e6d-881e-b87956c07977) - *Terrestrial lakes and hydro layers.*
 * [ArcticDEM](https://www.pgc.umn.edu/data/arcticdem/) - *Use the ArcticDEM Mosaic, see below for tiles relevant to Rankin Inlet.*
+* [EE elevation style](https://www.staridasgeography.gr/earth-engine-turn-cold-pixels-to-a-colorful-terrain/)
 
 [Rankin reference tiles](https://github.com/nuwcru/ltemp_data-sources/blob/master/landing%20page/tiles.png)
 
