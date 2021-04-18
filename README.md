@@ -30,6 +30,7 @@
 
 ### Julia
 * [Julia with Chris Rackauckas](http://ucidatascienceinitiative.github.io/IntroToJulia/)
+* [Rethinking in Turing - web](https://statisticalrethinkingjulia.github.io/TuringModels.jl/)
 
 ## R
 * [Advanced Spatial Modeling with Stochastic Partial Differential Equations Using R and INLA](https://becarioprecario.bitbucket.io/spde-gitbook/index.html)
