@@ -27,6 +27,7 @@
 * [Cory Schafer - python](https://www.youtube.com/watch?v=ZDa-Z5JzLYM)
 * [Linear Algebra](https://pabloinsente.github.io/intro-linear-algebra#sets)
 * [Math behind Deep Learning](http://d2l.ai/chapter_preliminaries/linear-algebra.html)
+* [git branching](https://github.com/pcottle/learnGitBranching)
 
 ### Julia
 * [Julia with Chris Rackauckas](http://ucidatascienceinitiative.github.io/IntroToJulia/)
