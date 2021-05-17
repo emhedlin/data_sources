@@ -83,6 +83,11 @@
 * [Gradients](https://palx.jxnblk.com/)
 * [palette generator](http://colormind.io/)
 
+### Roadmap
+  1. codewars
+  2. leetcode repo
+  3. servers/clients , HTTP, REST
+  4. docker
 
 
 ## Miscellaneous
