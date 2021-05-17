@@ -40,6 +40,7 @@
 * [tidytable](https://markfairbanks.github.io/tidytable/)
 
 ## Bayesian
+* [Applied Stochastic Differential Equations](https://users.aalto.fi/~asolin/sde-book/sde-book.pdf)
 * [Statistical Rethinking - brms + tidyverse](https://bookdown.org/ajkurz/Statistical_Rethinking_recoded/)
 * [Bayesian Tutorials](https://github.com/stablemarkets/BayesianTutorials)
 * [Bayesian Notes](https://jrnold.github.io/bayesian_notes/bayesian-computation.html)
