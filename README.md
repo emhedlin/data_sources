@@ -57,6 +57,7 @@
 * [stan code for the birthday analysis](https://github.com/avehtari/casestudies/tree/master/Birthdays)
 * [Point Processes](https://benjamincretois.netlify.app/post/fitting-point-process-models-in-stan-part-2/)
 * [Spatial Integrated Model](https://github.com/valentinlauret/SpatialIntegratedModelTursiops)
+* [Gaussian Processes](https://distill.pub/2019/visual-exploration-gaussian-processes/)
 
 
 ### Bayesian reading
