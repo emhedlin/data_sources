@@ -17,8 +17,6 @@
 * [ArcticDEM](https://www.pgc.umn.edu/data/arcticdem/) - *Use the ArcticDEM Mosaic, see below for tiles relevant to Rankin Inlet.*
 * [EE elevation style](https://www.staridasgeography.gr/earth-engine-turn-cold-pixels-to-a-colorful-terrain/)
 
-[Rankin reference tiles](https://github.com/nuwcru/ltemp_data-sources/blob/master/landing%20page/tiles.png)
-
 
 ## Tutorials
 ### Python
