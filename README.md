@@ -39,6 +39,7 @@
 * [Github for the UseR](https://happygitwithr.com/)
 * [data.table vs dplyr](https://atrebas.github.io/post/2019-03-03-datatable-dplyr/)
 * [tidytable](https://markfairbanks.github.io/tidytable/)
+* [statistical learning - tidy models](https://emilhvitfeldt.github.io/ISLR-tidymodels-labs/)
 
 ## Bayesian
 * [Applied Stochastic Differential Equations](https://users.aalto.fi/~asolin/sde-book/sde-book.pdf)
