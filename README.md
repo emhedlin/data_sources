@@ -63,6 +63,7 @@
 
 
 ### Bayesian reading
+* [Compilation of blog posts](https://awesome-bayes.com/)
 * [PPLs thesis - Maria Gorinova](https://arxiv.org/abs/2204.06868)
 * [Kevin Murphy](https://probml.github.io/pml-book/book1.html)
 * [David Mackay](http://www.inference.org.uk/mackay/itila/)
