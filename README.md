@@ -65,6 +65,7 @@
 ### Bayesian reading
 * [Compilation of blog posts](https://awesome-bayes.com/)
 * [PPLs thesis - Maria Gorinova](https://arxiv.org/abs/2204.06868)
+* [Introduction to Bayesian Optimal Experimental Design](https://desirivanova.com/post/boed-intro/)
 * [Kevin Murphy](https://probml.github.io/pml-book/book1.html)
 * [David Mackay](http://www.inference.org.uk/mackay/itila/)
 * [David Barber](http://web4.cs.ucl.ac.uk/staff/D.Barber/pmwiki/pmwiki.php?n=Brml.Online)
