@@ -33,6 +33,7 @@
 * [Bayesian with Turing](https://storopoli.io/Turing-Workshop/)
 * [Julia - wrangling docs](https://julia-data-query.readthedocs.io/en/latest/dplyr.html)
 * [Flux - intro](https://medium.com/coffee-in-a-klein-bottle/deep-learning-with-julia-e7f15ad5080b)
+* [Calculus with Julia](https://jverzani.github.io/CalculusWithJuliaNotes.jl/)
 
 ## R
 * [Advanced Spatial Modeling with Stochastic Partial Differential Equations Using R and INLA](https://becarioprecario.bitbucket.io/spde-gitbook/index.html)
