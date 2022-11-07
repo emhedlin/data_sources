@@ -26,6 +26,7 @@
 * [Linear Algebra](https://pabloinsente.github.io/intro-linear-algebra#sets)
 * [Math behind Deep Learning](http://d2l.ai/chapter_preliminaries/linear-algebra.html)
 * [git branching](https://github.com/pcottle/learnGitBranching)
+* [churn prediction](https://ragulpr.github.io/2016/12/22/WTTE-RNN-Hackless-churn-modeling/)
 
 ### Julia
 * [Julia with Chris Rackauckas](http://ucidatascienceinitiative.github.io/IntroToJulia/)
