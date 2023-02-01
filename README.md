@@ -86,11 +86,14 @@
 * [James Round - infograph inspo](https://dribbble.com/jamesrounddesign)
 * [Hanna Piotrowska - datavis inspo](https://www.behance.net/hannapio)
 * [trees maps and theorems](https://www.principiae.be/book/)
+
+
 ### Colour
 * [Diverging Color Maps for Scientific Visualization - Kenneth Moreland](https://link.springer.com/chapter/10.1007%2F978-3-642-10520-3_9)
 * [Where to start when building palette](https://refactoringui.com/previews/building-your-color-palette/)
 * [Gradients](https://palx.jxnblk.com/)
 * [palette generator](http://colormind.io/)
+* [perceptually uniform colors](https://colorcet.com/gallery.html)
 
 ## ecommerce
 * [Digital Marketplaces - Fradkin](https://andreyfradkin.com/assets/econ_of_digital.pdf)
