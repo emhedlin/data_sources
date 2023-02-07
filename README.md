@@ -94,6 +94,7 @@
 * [Gradients](https://palx.jxnblk.com/)
 * [palette generator](http://colormind.io/)
 * [perceptually uniform colors](https://colorcet.com/gallery.html)
+* [beautiful palette generator](https://meodai.github.io/poline/)
 
 ## ecommerce
 * [Digital Marketplaces - Fradkin](https://andreyfradkin.com/assets/econ_of_digital.pdf)
