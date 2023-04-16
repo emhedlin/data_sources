@@ -100,6 +100,7 @@
 * [Digital Marketplaces - Fradkin](https://andreyfradkin.com/assets/econ_of_digital.pdf)
 * [Computer Mediated Transactions - Varian](https://www.sfu.ca/~palys/Varian-2010-ComputerMediatedTransactions.pdf)
 * [Spillover effects in online field experiements: opportunities and challenges](https://wine2021-exp.github.io/)
+* [Assessing changes in the distribution](https://lmc2179.github.io/posts/distributional-effects.html)
 
 ### Roadmap
   1. codewars
