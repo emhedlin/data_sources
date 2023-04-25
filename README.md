@@ -101,6 +101,7 @@
 * [Computer Mediated Transactions - Varian](https://www.sfu.ca/~palys/Varian-2010-ComputerMediatedTransactions.pdf)
 * [Spillover effects in online field experiements: opportunities and challenges](https://wine2021-exp.github.io/)
 * [Assessing changes in the distribution](https://lmc2179.github.io/posts/distributional-effects.html)
+* [Gamma-gamma spend model](http://www.brucehardie.com/notes/025/gamma_gamma.pdf)
 
 ### Roadmap
   1. codewars
